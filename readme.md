@@ -1,4 +1,4 @@
-# AutoQA
+# UniQA
 automated quality assurance
 
 # LLM-Powered Autonomous Agent for Mobile App Testing ( will expand to web and desktop apps later)
