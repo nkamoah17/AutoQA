@@ -1,5 +1,5 @@
 # UniQA
-automated quality assurance
+United Quality Assurance
 
 #Autonomous Agent for Mobile App Testing ( will expand to web and desktop apps later)
 
