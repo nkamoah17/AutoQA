@@ -1,9 +1,9 @@
 # UniQA
 automated quality assurance
 
-# LLM-Powered Autonomous Agent for Mobile App Testing ( will expand to web and desktop apps later)
+#Autonomous Agent for Mobile App Testing ( will expand to web and desktop apps later)
 
-This project aims to create an AI-powered autonomous agent for automated Quality Assurance (QA) testing of mobile applications on Android and iOS platforms. The agent leverages Language Models (LLM) to understand test plans, generate executable test scripts, interpret the test results, and generate comprehensive test reports.
+This project aims to create an autonomous agent for automated Quality Assurance (QA) testing of mobile applications on Android and iOS platforms. The agent leverages Language Models (LLM) to understand test plans, generate executable test scripts, interpret the test results, and generate comprehensive test reports.
 
 ## Overview
 
