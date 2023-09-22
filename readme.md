@@ -4,7 +4,7 @@ United Quality Assurance
 Status: 
 currently deciding which multi-modal LLM to use 
 
-#Autonomous Agent for Mobile App Testing ( will expand to web and desktop apps later)
+# Autonomous Agent for Mobile App Testing ( will expand to web and desktop apps later)
 
 This project aims to create an autonomous agent for automated Quality Assurance (QA) testing of mobile applications on Android and iOS platforms. The agent leverages Language Models (LLM) to understand test plans, generate executable test scripts, interpret the test results, and generate comprehensive test reports.
 
@@ -29,3 +29,19 @@ The first step towards building this agent involves collecting a dataset of test
 ## Note
 
 This is a complex task involving multiple stages and requires significant experimentation and iterative development. However, with the right resources and a systematic approach, it is definitely achievable.
+
+## How to Contribute
+
+We welcome contributions from everyone. If you're new to the project, we recommend starting with one of the issues labeled as 'good first issue'. For more details, please refer to the CONTRIBUTING.md file.
+
+## Code of Conduct
+
+We are committed to fostering a welcoming community. To ensure that everyone feels safe and welcomed, we ask all participants to adhere to our Code of Conduct.
+
+## Acknowledgments
+
+We would like to thank all the contributors who have helped us in making this project a reality.
+
+## License
+
+This project is licensed under the MIT License. For more details, please refer to the LICENSE file.
